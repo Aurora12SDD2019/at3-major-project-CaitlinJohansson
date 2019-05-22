@@ -1,26 +1,20 @@
 -Game must be a simple, interactive, touchscreen PG game.
--A leaderboard that can track the highest score of the day, 
-month and year.
-
--Mustn't be too hard, but increase in difficulty the
-higher level you reach.
-
+-A leaderboard that can track the highest score of the day, month and year.
+-Mustn't be too hard, but increase in difficulty the higher level you reach.
 -Can be randomised if wanted.
 -Colourblind options, text to speech if required
 -Username for leaderboard mustn't be inappropriate
 
-Have a menu screen acustomising for the needs of the 
+Have a menu screen acustomising for the needs of the game:
 -Play*1
 -Scoreboard*2
 -Options*3
-*1 (Easy, Med, Hard if im able to mosst likely for the increasing levels
-) > Play > finish > input username >
-put up leaderboard placements > Go again? or Back to Menu? > If go 
-again, repeat from start of *1 > if Back to menu then back to top.
-*2 (Day, Month, Year) > shows your placement of whatever board
-you choose to look at.
+*1 (Easy, Med, Hard if im able to most likely for the increasing levels) > Play > finish > input username > 
+put up leaderboard placements > Go again? or Back to Menu? > If go again, repeat from start of *1 > if Back to menu then back to top.
+*2 (Day, Month, Year) > shows your placement of whatever board you choose to look at.
 *3 (Colourblind options, Subtitles, Language Options, Touch Test) >
-Colour: All the dif kinds, Subtitles: size and language, 
-Language: All the dif kinds, Touch Test > Touch the screen and a circle
-will appear to show you if your touches are being inputted > Back
-to Options Menu? Back to Menu?
+Colour: All the dif kinds, 
+Subtitles: size and language, 
+Language: All the dif kinds, 
+Touch Test > Touch the screen and a circle will appear to show you if your touches are being inputted
+> Back to Options Menu? Back to Menu?
