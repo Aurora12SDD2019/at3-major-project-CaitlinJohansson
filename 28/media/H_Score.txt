@@ -1,0 +1,1 @@
+<_io.TextIOWrapper name='media\\H_Score.txt' mode='w' encoding='cp1252'>
